@@ -1,0 +1,6 @@
+{
+  "name": "AutoTrader - テクニカル自動売買ボット",
+  "description": "テクニカル指標に基づく自動売買ルールの構築、バックテスト、リアルタイム自動注文実行シミュレーター",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
