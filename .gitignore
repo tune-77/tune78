@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# 実取引に紐づくデータ（public リポジトリのため公開しない。docs/trade_judgment_plan.md §6.5）
+db/
+vault/
+logs/
+audit/
